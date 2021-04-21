@@ -1,5 +1,4 @@
 # Certgen
------
 
 Script to generate certificates from a photoshop document. Now you can create 100 hundered certificates in a few seconds!!
 
@@ -17,13 +16,6 @@ Script to generate certificates from a photoshop document. Now you can create 10
 8. (Optional) You can modify settings related to saving the certificate in PDF format.
 9. Return to Photoshop and run the script from ***Menu > foo > bar > Run Script > Select this script***.
 10. Done!
-
-## Roadmap
-
-1. Add a sample photoshop document as template (https://github.com/virresh/CertificateScript).
-2. Modify script to restore template's original text at end of script.
-3. Add a user-friendly way to input the names.
-4. Add a user-friendly way to alter output format and settings.
 
 ## Inspiration
 
